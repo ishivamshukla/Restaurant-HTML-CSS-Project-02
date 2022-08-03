@@ -1,24 +1,33 @@
-# Assignment 1
+# Restaurant Web Page
 
-![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
-![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
+> ## [Shivam Shukla](https://ishivamshukla.in)
 
-![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--2-lightgrey)
+<br/>
 
-## Shivam Shukla
+![mobile-responsive](https://img.shields.io/badge/Mobile%20Responsive-No-red)
+[![Deployed](https://img.shields.io/badge/Deployed-Yes-green)](#)
+![Time](https://img.shields.io/badge/Time%20Taken-3hrs-green)
 
-## Project 2 [Live Link](#)
+## Tech Stack:
 
--   Skills Gained in this project
-    -   Learnd to use css position property.
-    - Learned to use pseudo classes like :nth-child(), :not(), :last-child, first-child
+![HTML](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%234ea94b.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ---
 
-## Time taken to finish this project
+### Checkout the live website [here](#).
 
--  3 hour to complete it.
+---
 
-#### Screenshot
+## My Learnings
+
+-   Skills Gained in this project
+    -  Learnd to use css position property.
+    -  Learned to use pseudo classes like :nth-child(), :not(), :last-child, first-child
+
+---
+
+## How the website looks like
 
 ![Desktop](2.png)
+
